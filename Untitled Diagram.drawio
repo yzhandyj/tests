@@ -1,116 +1,194 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T09:52:20.069Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="NHD810j5xaXxivg7Wgpz" version="14.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-30T05:45:44.611Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="LpjVYUgR6sOqZpHZknl-" version="14.1.3" type="github" pages="2">
   <diagram id="m5bvnVAXrxUMq8WtMeak" name="第 1 页">
-    <mxGraphModel dx="974" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="907" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="AebG_U4oSjqvSSur_Na6-5" value="第一课&amp;nbsp; &amp;nbsp; 看透股市赚钱的秘密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-5" value="第一课&amp;nbsp; &amp;nbsp; 看透股市赚钱的秘密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="278" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-7" value="1、股市的收益有多高" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;spacingRight=-7;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-7" value="1、股市的收益有多高" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;spacingRight=-7;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry y="110" width="178" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-8" value="&lt;font style=&quot;font-size: 15px&quot;&gt;2、股票的收益来源&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-8" value="&lt;font style=&quot;font-size: 15px&quot;&gt;2、股票的收益来源&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="10" y="327.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;3、股市的风险及应对指南&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;3、股市的风险及应对指南&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="10" y="620" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-23" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=0.955;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1" source="AebG_U4oSjqvSSur_Na6-7" target="AebG_U4oSjqvSSur_Na6-7">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-23" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=0.955;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" source="AebG_U4oSjqvSSur_Na6-7" target="AebG_U4oSjqvSSur_Na6-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="82" y="200" as="sourcePoint" />
             <mxPoint x="200" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-26" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-26" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="640" as="sourcePoint" />
             <mxPoint x="200" y="640" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-28" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" edge="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-28" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="41" y="359" as="sourcePoint" />
             <mxPoint x="159" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-32" value="&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;美国物价上涨：16.8倍&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;黄金上涨：32.8倍&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;股票上涨1270万倍（年平均增长8.6%-11.2%）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-32" value="&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;美国物价上涨：16.8倍&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;黄金上涨：32.8倍&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;股票上涨1270万倍（年平均增长8.6%-11.2%）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="205" y="100" width="350" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-33" value="&amp;nbsp;需要知道股票赚钱的逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=15;fontColor=#CC0066;" vertex="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-33" value="&amp;nbsp;需要知道股票赚钱的逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=15;fontColor=#CC0066;" parent="1" vertex="1">
           <mxGeometry x="178" y="160" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AebG_U4oSjqvSSur_Na6-42" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=12;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="AebG_U4oSjqvSSur_Na6-42" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=12;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MVnKWzn-PWz_MAxwOVu2-1" value="a、新华都股票显示出的问题：股票价格的高低并不代表股价真的贵或者便宜，而应该关注它背后对应的估值" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;spacingRight=-3;" vertex="1" parent="1">
+        <mxCell id="MVnKWzn-PWz_MAxwOVu2-1" value="a、新华都股票显示出的问题：股票价格的高低并不代表股价真的贵或者便宜，而应该关注它背后对应的估值" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;spacingRight=-3;" parent="1" vertex="1">
           <mxGeometry x="200" y="265" width="680" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;fillColor=#BC6C25;strokeColor=#DDA15E;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;fillColor=#BC6C25;strokeColor=#DDA15E;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="18" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-9" value="b、业绩是衡量估值的一种工具，也可以理解为是估值的表现形式" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-9" value="b、业绩是衡量估值的一种工具，也可以理解为是估值的表现形式" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="200" y="285" width="420" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-10" value="业绩与什么有关？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-10" value="业绩与什么有关？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="250" y="337.5" width="162" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;fillColor=#BC6C25;strokeColor=#DDA15E;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;fillColor=#BC6C25;strokeColor=#DDA15E;" parent="1" vertex="1">
           <mxGeometry x="392" y="330" width="8" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-13" value="内因：公司的经营状况，经营的好业绩就好" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-13" value="内因：公司的经营状况，经营的好业绩就好" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="400" y="320" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-14" value="外因：竞争对手、市场环境、经济环境、政治环境等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-14" value="外因：竞争对手、市场环境、经济环境、政治环境等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="400" y="350" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#FEFAE0;labelBackgroundColor=#283618;strokeColor=#DDA15E;" edge="1" parent="1" source="E1mPZwcP-GkEmmAKB812-14" target="E1mPZwcP-GkEmmAKB812-14">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#FEFAE0;labelBackgroundColor=#283618;strokeColor=#DDA15E;" parent="1" source="E1mPZwcP-GkEmmAKB812-14" target="E1mPZwcP-GkEmmAKB812-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-17" value="&lt;h1 style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1）资本利得：&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;资本利得是指低买高卖股票所获得的差价收益&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-17" value="&lt;h1 style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1）资本利得：&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;资本利得是指低买高卖股票所获得的差价收益&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="178" y="225" width="392" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-18" value="&lt;h1 style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2）分红：&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;投资企业的现金分红&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;spacingBottom=-7;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-18" value="&lt;h1 style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2）分红：&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;投资企业的现金分红&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;spacingBottom=-7;" parent="1" vertex="1">
           <mxGeometry x="100" y="450" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-20" value="好业绩&amp;nbsp; 不等于&amp;nbsp; 好估值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=#FF3399;" vertex="1" parent="1">
-          <mxGeometry x="304" y="380" width="140" height="20" as="geometry" />
+        <mxCell id="E1mPZwcP-GkEmmAKB812-20" value="好业绩&amp;nbsp; 不等于&amp;nbsp; 好估值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="198.5" y="380" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-22" value="行业周期：初创期、成长期、成熟期、衰退期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FF0080;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-22" value="行业周期：初创期、成长期、成熟期、衰退期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FF0080;" parent="1" vertex="1">
           <mxGeometry x="180" y="414" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;fillColor=#BC6C25;strokeColor=#DDA15E;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;fillColor=#BC6C25;strokeColor=#DDA15E;" parent="1" vertex="1">
           <mxGeometry x="384" y="450" width="8" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-25" value="现金：按照投资人的持股比例发放现金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-25" value="现金：按照投资人的持股比例发放现金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="392" y="440" width="248" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-26" value="送股：股份有限公司向股东赠送股份" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;spacingRight=5;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-26" value="送股：股份有限公司向股东赠送股份" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=14;fontColor=#FEFAE0;spacingRight=5;" parent="1" vertex="1">
           <mxGeometry x="392" y="480" width="238" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-27" value="股价围绕估值进行波动，股价低估买入股票，股价高涨卖出股票" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FF0080;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-27" value="股价围绕估值进行波动，股价低估买入股票，股价高涨卖出股票" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FF0080;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="198.5" y="510" width="395" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-28" value="投资股票需要长线投资：长线投资需要耐得住寂寞，忍得过诱惑，长期持有，大概率赚钱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FF0080;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-28" value="投资股票需要长线投资：长线投资需要耐得住寂寞，忍得过诱惑，长期持有，大概率赚钱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FF0080;" parent="1" vertex="1">
           <mxGeometry x="116.5" y="660" width="559" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-29" value="完善的投资逻辑：投资逻辑是长线持股的精髓，要对大量行业和数据进行论证，需要长期学习和锻炼" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FF0080;spacingLeft=-4;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-29" value="完善的投资逻辑：投资逻辑是长线持股的精髓，要对大量行业和数据进行论证，需要长期学习和锻炼" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FF0080;spacingLeft=-4;" parent="1" vertex="1">
           <mxGeometry x="116.5" y="700" width="630" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1mPZwcP-GkEmmAKB812-31" value="正确的投资心态：恐惧和贪婪是投资过程中必须克服的弱点，唯有如此才能把我们打造成百毒不侵的钢铁战士" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FF0080;spacingLeft=-6;" vertex="1" parent="1">
+        <mxCell id="E1mPZwcP-GkEmmAKB812-31" value="正确的投资心态：恐惧和贪婪是投资过程中必须克服的弱点，唯有如此才能把我们打造成百毒不侵的钢铁战士" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FF0080;spacingLeft=-6;" parent="1" vertex="1">
           <mxGeometry x="120" y="740" width="680" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="dXkZSwn3A2-5qYktCXOZ" name="第 2 页">
-    <mxGraphModel dx="907" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="907" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="XAOGz9AYFGQWxydJxJSW-0" />
         <mxCell id="XAOGz9AYFGQWxydJxJSW-1" parent="XAOGz9AYFGQWxydJxJSW-0" />
+        <mxCell id="cmDcosQfWXOTotA4SChQ-0" value="第二课&amp;nbsp; 巴菲特的股市暴富秘籍你也能学会" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;fontSize=20;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="50" y="10" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BZc_Ym0EWB4jqjE0cTuo-0" value="1、巴菲特如何投资" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="40" y="100" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BZc_Ym0EWB4jqjE0cTuo-1" value="2、股票投资流派" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="10" y="414" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BZc_Ym0EWB4jqjE0cTuo-2" value="3、价值投资如何做" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="40" y="700" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BZc_Ym0EWB4jqjE0cTuo-3" value="4、避开市场噪音" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="40" y="780" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEDt_ilaQyS6sF2cXcJ-0" value="如果我不打算持有一只股票十年，那我就不会持有它超过十分钟。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="80" y="140" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEDt_ilaQyS6sF2cXcJ-2" value="巴菲特是以发现企业价值偏差为投资核心，所称价值投资派" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="60" y="170" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEDt_ilaQyS6sF2cXcJ-3" value="1）技术分析派" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="150" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEDt_ilaQyS6sF2cXcJ-4" value="2）量化投资派（逆市）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="160" y="365" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEDt_ilaQyS6sF2cXcJ-5" value="3）价值投资派" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="160" y="490" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEDt_ilaQyS6sF2cXcJ-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=15;fontColor=#FEFAE0;labelBorderColor=#000000;strokeColor=#DDA15E;labelBackgroundColor=#283618;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="120" y="250" width="30" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-0" value="技术分析技术的精髓就是“规律”" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;fontSize=14;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="160" y="267.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-1" value="1、市场行为包容消化一切信息，这句话是技术分析的基础&#xa;2、市场运行以趋势方式演变（价格是可以预测的）&#xa;3、历史会重演（10年一个轮回，8  金融危机，和限时差距较大）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;rounded=0;sketch=0;fontColor=#FEFAE0;spacingTop=11;spacing=4;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;horizontal=1;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="300" y="200" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-2" value="技术分析的三大假设与限时状况差距较大，逻辑不能自洽。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="250" y="307.5" width="410" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontColor=#FEFAE0;strokeColor=#DDA15E;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="270" y="232.5" width="20" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-5" value="量化交易以现金的数学模型替代人为的主管判断（难操作）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;fontSize=14;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="350" y="365" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-6" value="西蒙斯（数学家）在20年里创造了年均净回报率高达35%的惊人业绩" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="180" y="404" width="445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-7" value="聪明的投资者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="180" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-10" value="a、为什么价值投资能帮我们赚钱？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="300" y="490" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-11" value="1、价值投资是自下往上的策略（只需对公司进行分析判断）&lt;br&gt;&lt;br&gt;2、价值投资追求的是绝对表现（只关心自己买的）而不是相对表现（打败市场多少人）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;3、价值投资是一种风险规避的方法（价值低估的股票，降低投资的风险）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="550" y="450" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-12" value="b、价值投资者需要哪些能力？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="300" y="600" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-13" value="分析公司" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="550" y="580" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-14" value="准确估值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="570" y="630" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-15" value="c、如何分析一个公司" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="290" y="690" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-16" value="&lt;br&gt;好生意" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="510" y="690" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q4VKJWMB_IdTR05H-gKI-17" value="好团队" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="XAOGz9AYFGQWxydJxJSW-1">
+          <mxGeometry x="505" y="740" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
