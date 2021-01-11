@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T03:03:37.809Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="vKGwHrZrSdWkhFivYrjF" version="14.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-11T01:15:10.364Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="N3pwVess8Ph_rYSv53DD" version="14.1.8" type="github" pages="4">
   <diagram id="m5bvnVAXrxUMq8WtMeak" name="第 1 页">
-    <mxGraphModel dx="961" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -193,127 +193,135 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2S9Vu0QW8BQiZXrNTA1Y" name="第 3 页">
-    <mxGraphModel dx="961" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="_3YfecklBR2j53cXvBVf-0" />
         <mxCell id="_3YfecklBR2j53cXvBVf-1" parent="_3YfecklBR2j53cXvBVf-0" />
-        <mxCell id="_3YfecklBR2j53cXvBVf-2" value="第四课&amp;nbsp; &amp;nbsp;看清企业的家底--资产负债表&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;strokeWidth=2;fontSize=18;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="_3YfecklBR2j53cXvBVf-2" value="第四课&amp;nbsp; &amp;nbsp;看清企业的家底--资产负债表&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;strokeWidth=2;fontSize=18;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="30" y="-800" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="I5HPRiR0q87Ypav-6Lbp-0" value="利润表-体能(赚钱的能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="I5HPRiR0q87Ypav-6Lbp-0" value="利润表-体能(赚钱的能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="160" y="-740" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-0" value="资产负债表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-0" value="资产负债表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="40" y="-740" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-1" value="现金流量表--供血情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-1" value="现金流量表--供血情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="382.5" y="-740" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-3" value="极少人懂的“傻瓜式”财务分析法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-3" value="极少人懂的“傻瓜式”财务分析法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="40" y="-700" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-4" value="核心数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-4" value="核心数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="280" y="-700" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-5" value="我们只需要找到财务报表中的核心数据的大小和变化情况就能判断企业的情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-5" value="我们只需要找到财务报表中的核心数据的大小和变化情况就能判断企业的情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="380" y="-700" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-7" value="工具推荐--choice" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-7" value="工具推荐--choice" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="40" y="-660" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-8" value="资产负债表是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-8" value="资产负债表是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="40" y="-620" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-9" value="资产负债表的内容" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-9" value="资产负债表的内容" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="100" y="-420" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-11" value="（资产是由企业过去的交易或事项形成的、由企业拥有或者控制的、预期会给企业带来经济利益的资源，格力电器的工厂设备就是典型的资产）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=13;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-11" value="（资产是由企业过去的交易或事项形成的、由企业拥有或者控制的、预期会给企业带来经济利益的资源，格力电器的工厂设备就是典型的资产）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=13;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="300" y="-510" width="830" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-12" value="（贷款、货款、工人工资等）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=13;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-12" value="（贷款、货款、工人工资等）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=13;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="630" y="-415" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-13" value="（是指企业资产（股东的钱+公司赚得）扣除负债后，由所有者享有的剩余权益。通俗的讲就是企业扣除负债后还值多少钱）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=13;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-13" value="（是指企业资产（股东的钱+公司赚得）扣除负债后，由所有者享有的剩余权益。通俗的讲就是企业扣除负债后还值多少钱）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=13;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="300" y="-300" width="725" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=14;fontColor=#FEFAE0;strokeColor=#DDA15E;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=14;fontColor=#FEFAE0;strokeColor=#DDA15E;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="260" y="-553" width="15" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-21" value="资产=负债+所有者权益" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;fontSize=14;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-21" value="资产=负债+所有者权益" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;fontSize=14;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="100" y="-375" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-22" value="等式左边代表的是公司的资源形式等式右边代表的是钱的来源，总的来看这个等式是永远成立的。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-22" value="等式左边代表的是公司的资源形式等式右边代表的是钱的来源，总的来看这个等式是永远成立的。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="100" y="-350" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-24" value="1）资产" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-24" value="1）资产" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="285" y="-580" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-25" value="2）负债" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-25" value="2）负债" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="290" y="-425" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-45" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontSize=14;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="_3YfecklBR2j53cXvBVf-1" source="Us06LLM0BbqdRtaWMkaf-26" target="Us06LLM0BbqdRtaWMkaf-43">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-45" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontSize=14;fontColor=#FEFAE0;labelBackgroundColor=#283618;" parent="_3YfecklBR2j53cXvBVf-1" source="Us06LLM0BbqdRtaWMkaf-26" target="Us06LLM0BbqdRtaWMkaf-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-26" value="3）所有者权益" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-26" value="3）所有者权益" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="285" y="-330" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=15;fontColor=#FEFAE0;strokeColor=#DDA15E;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=15;fontColor=#FEFAE0;strokeColor=#DDA15E;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="360" y="-600" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" parent="_3YfecklBR2j53cXvBVf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="-600" as="sourcePoint" />
             <mxPoint x="660" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-31" value="流动性资产（一年以内的资产，短期变现）" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-31" value="流动性资产（一年以内的资产，短期变现）" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="370" y="-602.5" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-38" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-38" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" parent="_3YfecklBR2j53cXvBVf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="-540.5" as="sourcePoint" />
             <mxPoint x="660" y="-540.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-33" value="非流动性资产（一年以上的资产）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-33" value="非流动性资产（一年以上的资产）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="365" y="-550" width="225" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-35" value="货币资金（年末可以立即支付给别人的钱）、应收账款、应收票据（由付款人或收款人签发、由付款人承兑、到期无条件付款的一种书面凭证）、存货等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-35" value="货币资金（年末可以立即支付给别人的钱）、应收账款、应收票据（由付款人或收款人签发、由付款人承兑、到期无条件付款的一种书面凭证）、存货等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="670" y="-620" width="485" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-37" value="发放委托贷款及垫款、可供出售金融资金、长期股权投资、固定资产（机器、设备、厂房）、在建工程、无形资产" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-37" value="发放委托贷款及垫款、可供出售金融资金、长期股权投资、固定资产（机器、设备、厂房）、在建工程、无形资产" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="670" y="-560" width="470" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=15;fontColor=#FEFAE0;strokeColor=#DDA15E;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=15;fontColor=#FEFAE0;strokeColor=#DDA15E;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="360" y="-433" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-41" value="流动性负债（还款期限小于等于1年）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;spacingLeft=-2;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-41" value="流动性负债（还款期限小于等于1年）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;spacingLeft=-2;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="380" y="-440" width="237.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-42" value="非流动性负债（&lt;span style=&quot;text-align: right ; font-size: 14px&quot;&gt;还款期限大于1年&lt;/span&gt;）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-42" value="非流动性负债（&lt;span style=&quot;text-align: right ; font-size: 14px&quot;&gt;还款期限大于1年&lt;/span&gt;）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="370" y="-405" width="235" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-43" value="根据公式获得" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-43" value="根据公式获得" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="480" y="-330" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-46" value="&lt;div&gt;&lt;span&gt;a）资产负债率=总负责 / 总资产（资产负债率处于50-60%比较合理，大于60%资产状况处于不佳。它是一把双刃剑，过大的话，公司赚得越多，也意味着企业的负责风险越大）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-46" value="&lt;div&gt;&lt;span&gt;a）资产负债率=总负责 / 总资产（资产负债率处于50-60%比较合理，大于60%资产状况处于不佳。它是一把双刃剑，过大的话，公司赚得越多，也意味着企业的负责风险越大）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="160" y="-200" width="585" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-47" value="b）流动比率=流动资产 / 流动负债（流动比率越高，资产的流动性越好，短期偿债能力越强。1-2直接比较合适，小于1资不抵债风险，大于2资金利用不充分）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;spacingLeft=-1;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-47" value="b）流动比率=流动资产 / 流动负债（流动比率越高，资产的流动性越好，短期偿债能力越强。1-2直接比较合适，小于1资不抵债风险，大于2资金利用不充分）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;spacingLeft=-1;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="160" y="-140" width="830" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-48" value="c）速动比率=速动资产 / 流动负债&amp;nbsp; （衡量企业立即辨析资产偿还负债的能力&amp;nbsp; &amp;nbsp;速动资产=流动资产-存货&amp;nbsp; 1左右比较好，过低资不抵债，过高，速动资产占用资金过多）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-48" value="c）速动比率=速动资产 / 流动负债&amp;nbsp; （衡量企业立即辨析资产偿还负债的能力&amp;nbsp; &amp;nbsp;速动资产=流动资产-存货&amp;nbsp; 1左右比较好，过低资不抵债，过高，速动资产占用资金过多）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="160" y="-90" width="820" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-49" value="企业在有一块钱的账款需要还的时候，需要有1块钱货物能马上变现（根据行业不一致，销售行业小于1，制造业大于1）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;spacingLeft=10;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-49" value="企业在有一块钱的账款需要还的时候，需要有1块钱货物能马上变现（根据行业不一致，销售行业小于1，制造业大于1）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;spacingLeft=10;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="150" y="-60" width="850" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-50" value="偿债能力指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-50" value="偿债能力指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#FEFAE0;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="30" y="-135" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Us06LLM0BbqdRtaWMkaf-56" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=12;fontColor=#FEFAE0;spacingTop=-5;strokeColor=#DDA15E;" vertex="1" parent="_3YfecklBR2j53cXvBVf-1">
+        <mxCell id="Us06LLM0BbqdRtaWMkaf-56" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#BC6C25;fontSize=12;fontColor=#FEFAE0;spacingTop=-5;strokeColor=#DDA15E;" parent="_3YfecklBR2j53cXvBVf-1" vertex="1">
           <mxGeometry x="133.75" y="-195" width="12.5" height="140" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oE_lkwVeqUv5_y4K5poM" name="第 4 页">
+    <mxGraphModel dx="1374" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="T-ru-UoOeTgsA8sv9uKx-0" />
+        <mxCell id="T-ru-UoOeTgsA8sv9uKx-1" parent="T-ru-UoOeTgsA8sv9uKx-0" />
       </root>
     </mxGraphModel>
   </diagram>
